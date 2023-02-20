@@ -5,7 +5,7 @@
 
 from email.message import EmailMessage
 email_sender = 'edmundgyimah05@gmail.com'
-email_password = 'trpcbrmxakbzttgm'
+email_password = 'blank for now'
 import ssl
 import smtplib
 
